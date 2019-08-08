@@ -1,0 +1,13 @@
+C:\tavisca_training\performance engineering\Multithreading\MultiThreadingBenchMark\bin\Debug\netcoreapp2.1\MultiThreadingBenchMark.deps.json
+C:\tavisca_training\performance engineering\Multithreading\MultiThreadingBenchMark\bin\Debug\netcoreapp2.1\MultiThreadingBenchMark.runtimeconfig.json
+C:\tavisca_training\performance engineering\Multithreading\MultiThreadingBenchMark\bin\Debug\netcoreapp2.1\MultiThreadingBenchMark.runtimeconfig.dev.json
+C:\tavisca_training\performance engineering\Multithreading\MultiThreadingBenchMark\bin\Debug\netcoreapp2.1\MultiThreadingBenchMark.dll
+C:\tavisca_training\performance engineering\Multithreading\MultiThreadingBenchMark\bin\Debug\netcoreapp2.1\MultiThreadingBenchMark.pdb
+C:\tavisca_training\performance engineering\Multithreading\MultiThreadingBenchMark\bin\Debug\netcoreapp2.1\Multithreading.dll
+C:\tavisca_training\performance engineering\Multithreading\MultiThreadingBenchMark\bin\Debug\netcoreapp2.1\Multithreading.pdb
+C:\tavisca_training\performance engineering\Multithreading\MultiThreadingBenchMark\obj\Debug\netcoreapp2.1\MultiThreadingBenchMark.csprojResolveAssemblyReference.cache
+C:\tavisca_training\performance engineering\Multithreading\MultiThreadingBenchMark\obj\Debug\netcoreapp2.1\MultiThreadingBenchMark.csproj.CoreCompileInputs.cache
+C:\tavisca_training\performance engineering\Multithreading\MultiThreadingBenchMark\obj\Debug\netcoreapp2.1\MultiThreadingBenchMark.AssemblyInfoInputs.cache
+C:\tavisca_training\performance engineering\Multithreading\MultiThreadingBenchMark\obj\Debug\netcoreapp2.1\MultiThreadingBenchMark.AssemblyInfo.cs
+C:\tavisca_training\performance engineering\Multithreading\MultiThreadingBenchMark\obj\Debug\netcoreapp2.1\MultiThreadingBenchMark.dll
+C:\tavisca_training\performance engineering\Multithreading\MultiThreadingBenchMark\obj\Debug\netcoreapp2.1\MultiThreadingBenchMark.pdb

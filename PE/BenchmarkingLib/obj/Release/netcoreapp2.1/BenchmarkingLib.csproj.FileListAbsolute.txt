@@ -1,0 +1,15 @@
+C:\tavisca_training\performance engineering\PE\BenchmarkingLib\bin\Release\netcoreapp2.1\BenchmarkingLib.deps.json
+C:\tavisca_training\performance engineering\PE\BenchmarkingLib\bin\Release\netcoreapp2.1\BenchmarkingLib.runtimeconfig.json
+C:\tavisca_training\performance engineering\PE\BenchmarkingLib\bin\Release\netcoreapp2.1\BenchmarkingLib.runtimeconfig.dev.json
+C:\tavisca_training\performance engineering\PE\BenchmarkingLib\bin\Release\netcoreapp2.1\BenchmarkingLib.dll
+C:\tavisca_training\performance engineering\PE\BenchmarkingLib\bin\Release\netcoreapp2.1\BenchmarkingLib.pdb
+C:\tavisca_training\performance engineering\PE\BenchmarkingLib\bin\Release\netcoreapp2.1\PE.dll
+C:\tavisca_training\performance engineering\PE\BenchmarkingLib\bin\Release\netcoreapp2.1\PE.pdb
+C:\tavisca_training\performance engineering\PE\BenchmarkingLib\obj\Release\netcoreapp2.1\BenchmarkingLib.csprojResolveAssemblyReference.cache
+C:\tavisca_training\performance engineering\PE\BenchmarkingLib\obj\Release\netcoreapp2.1\BenchmarkingLib.csproj.CoreCompileInputs.cache
+C:\tavisca_training\performance engineering\PE\BenchmarkingLib\obj\Release\netcoreapp2.1\BenchmarkingLib.AssemblyInfoInputs.cache
+C:\tavisca_training\performance engineering\PE\BenchmarkingLib\obj\Release\netcoreapp2.1\BenchmarkingLib.AssemblyInfo.cs
+C:\tavisca_training\performance engineering\PE\BenchmarkingLib\obj\Release\netcoreapp2.1\BenchmarkingLib.dll
+C:\tavisca_training\performance engineering\PE\BenchmarkingLib\obj\Release\netcoreapp2.1\BenchmarkingLib.pdb
+C:\tavisca_training\performance engineering\PE\BenchmarkingLib\obj\Release\netcoreapp2.1\BenchmarkingLib.csprojAssemblyReference.cache
+C:\tavisca_training\performance engineering\PE\BenchmarkingLib\obj\Release\netcoreapp2.1\BenchmarkingLib.csproj.CopyComplete

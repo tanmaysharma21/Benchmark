@@ -1,0 +1,11 @@
+C:\tavisca_training\performance engineering\Multithreading\Multithreading\bin\Release\netcoreapp2.1\Multithreading.deps.json
+C:\tavisca_training\performance engineering\Multithreading\Multithreading\bin\Release\netcoreapp2.1\Multithreading.runtimeconfig.json
+C:\tavisca_training\performance engineering\Multithreading\Multithreading\bin\Release\netcoreapp2.1\Multithreading.runtimeconfig.dev.json
+C:\tavisca_training\performance engineering\Multithreading\Multithreading\bin\Release\netcoreapp2.1\Multithreading.dll
+C:\tavisca_training\performance engineering\Multithreading\Multithreading\bin\Release\netcoreapp2.1\Multithreading.pdb
+C:\tavisca_training\performance engineering\Multithreading\Multithreading\obj\Release\netcoreapp2.1\Multithreading.csproj.CoreCompileInputs.cache
+C:\tavisca_training\performance engineering\Multithreading\Multithreading\obj\Release\netcoreapp2.1\Multithreading.AssemblyInfoInputs.cache
+C:\tavisca_training\performance engineering\Multithreading\Multithreading\obj\Release\netcoreapp2.1\Multithreading.AssemblyInfo.cs
+C:\tavisca_training\performance engineering\Multithreading\Multithreading\obj\Release\netcoreapp2.1\Multithreading.dll
+C:\tavisca_training\performance engineering\Multithreading\Multithreading\obj\Release\netcoreapp2.1\Multithreading.pdb
+C:\tavisca_training\performance engineering\Multithreading\Multithreading\obj\Release\netcoreapp2.1\Multithreading.csprojAssemblyReference.cache

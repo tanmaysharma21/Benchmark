@@ -1,0 +1,11 @@
+C:\tavisca_training\performance engineering\PE\PE\bin\Release\netcoreapp2.1\PE.deps.json
+C:\tavisca_training\performance engineering\PE\PE\bin\Release\netcoreapp2.1\PE.runtimeconfig.json
+C:\tavisca_training\performance engineering\PE\PE\bin\Release\netcoreapp2.1\PE.runtimeconfig.dev.json
+C:\tavisca_training\performance engineering\PE\PE\bin\Release\netcoreapp2.1\PE.dll
+C:\tavisca_training\performance engineering\PE\PE\bin\Release\netcoreapp2.1\PE.pdb
+C:\tavisca_training\performance engineering\PE\PE\obj\Release\netcoreapp2.1\PE.csproj.CoreCompileInputs.cache
+C:\tavisca_training\performance engineering\PE\PE\obj\Release\netcoreapp2.1\PE.AssemblyInfoInputs.cache
+C:\tavisca_training\performance engineering\PE\PE\obj\Release\netcoreapp2.1\PE.AssemblyInfo.cs
+C:\tavisca_training\performance engineering\PE\PE\obj\Release\netcoreapp2.1\PE.dll
+C:\tavisca_training\performance engineering\PE\PE\obj\Release\netcoreapp2.1\PE.pdb
+C:\tavisca_training\performance engineering\PE\PE\obj\Release\netcoreapp2.1\PE.csprojAssemblyReference.cache

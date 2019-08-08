@@ -1,0 +1,153 @@
+// Validating benchmarks:
+// ***** BenchmarkRunner: Start   *****
+// ***** Found 1 benchmark(s) in total *****
+// ***** Building 1 exe(s) in Parallel: Start   *****
+// start dotnet restore  /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 in C:\tavisca_training\performance engineering\Multithreading\MultiThreadingBenchMark\bin\Release\netcoreapp2.1\e1025281-8641-4809-8e06-513d6cd8b874
+// command took 3.21s and exited with 0
+// start dotnet build -c Release  --no-restore /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 in C:\tavisca_training\performance engineering\Multithreading\MultiThreadingBenchMark\bin\Release\netcoreapp2.1\e1025281-8641-4809-8e06-513d6cd8b874
+// command took 16.05s and exited with 1
+// start dotnet build -c Release  --no-restore --no-dependencies /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 in C:\tavisca_training\performance engineering\Multithreading\MultiThreadingBenchMark\bin\Release\netcoreapp2.1\e1025281-8641-4809-8e06-513d6cd8b874
+// command took 4.07s and exited with 0
+// ***** Done, took 00:00:23 (23.58 sec)   *****
+// Found 1 benchmarks:
+//   Program.ThreadCalling: DefaultJob
+
+Setup power plan (GUID: 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c FriendlyName: High performance)// **************************
+// Benchmark: Program.ThreadCalling: DefaultJob
+// *** Execute ***
+// Launch: 1 / 1
+// Execute: dotnet "e1025281-8641-4809-8e06-513d6cd8b874.dll" --benchmarkName "MultiThreadingBenchMark.Program.ThreadCalling" --job "Default" --benchmarkId 0 in C:\tavisca_training\performance engineering\Multithreading\MultiThreadingBenchMark\bin\Release\netcoreapp2.1\e1025281-8641-4809-8e06-513d6cd8b874\bin\Release\netcoreapp2.1
+// BeforeAnythingElse
+
+// Benchmark Process Environment Information:
+// Runtime=.NET Core 2.1.12 (CoreCLR 4.6.27817.01, CoreFX 4.6.27818.01), 64bit RyuJIT
+// GC=Concurrent Workstation
+// Job: DefaultJob
+
+OverheadJitting  1: 1 op, 412079.55 ns, 412.0795 us/op
+Hi
+WorkloadJitting  1: 1 op, 4006252668.94 ns, 4.0063 s/op
+
+Hi
+WorkloadWarmup   1: 1 op, 4001670563.19 ns, 4.0017 s/op
+Hi
+WorkloadWarmup   2: 1 op, 4000807019.50 ns, 4.0008 s/op
+Hi
+WorkloadWarmup   3: 1 op, 4001066301.41 ns, 4.0011 s/op
+Hi
+WorkloadWarmup   4: 1 op, 4001385024.88 ns, 4.0014 s/op
+Hi
+WorkloadWarmup   5: 1 op, 4001317560.53 ns, 4.0013 s/op
+Hi
+WorkloadWarmup   6: 1 op, 4001961936.25 ns, 4.0020 s/op
+Hi
+WorkloadWarmup   7: 1 op, 4001466711.45 ns, 4.0015 s/op
+
+// BeforeActualRun
+Hi
+WorkloadActual   1: 1 op, 4001407999.23 ns, 4.0014 s/op
+Hi
+WorkloadActual   2: 1 op, 4001830289.60 ns, 4.0018 s/op
+Hi
+WorkloadActual   3: 1 op, 4001359133.16 ns, 4.0014 s/op
+Hi
+WorkloadActual   4: 1 op, 4001793093.04 ns, 4.0018 s/op
+Hi
+WorkloadActual   5: 1 op, 4000711110.72 ns, 4.0007 s/op
+Hi
+WorkloadActual   6: 1 op, 4001652329.58 ns, 4.0017 s/op
+Hi
+WorkloadActual   7: 1 op, 4002177457.50 ns, 4.0022 s/op
+Hi
+WorkloadActual   8: 1 op, 4001023999.44 ns, 4.0010 s/op
+Hi
+WorkloadActual   9: 1 op, 4001407634.56 ns, 4.0014 s/op
+Hi
+WorkloadActual  10: 1 op, 4001448842.51 ns, 4.0014 s/op
+Hi
+WorkloadActual  11: 1 op, 4001538187.19 ns, 4.0015 s/op
+Hi
+WorkloadActual  12: 1 op, 4001335064.80 ns, 4.0013 s/op
+Hi
+WorkloadActual  13: 1 op, 4001345640.29 ns, 4.0013 s/op
+Hi
+WorkloadActual  14: 1 op, 4001674209.91 ns, 4.0017 s/op
+Hi
+WorkloadActual  15: 1 op, 4001308079.06 ns, 4.0013 s/op
+
+// AfterActualRun
+WorkloadResult   1: 1 op, 4001407999.23 ns, 4.0014 s/op
+WorkloadResult   2: 1 op, 4001830289.60 ns, 4.0018 s/op
+WorkloadResult   3: 1 op, 4001359133.16 ns, 4.0014 s/op
+WorkloadResult   4: 1 op, 4001793093.04 ns, 4.0018 s/op
+WorkloadResult   5: 1 op, 4000711110.72 ns, 4.0007 s/op
+WorkloadResult   6: 1 op, 4001652329.58 ns, 4.0017 s/op
+WorkloadResult   7: 1 op, 4002177457.50 ns, 4.0022 s/op
+WorkloadResult   8: 1 op, 4001023999.44 ns, 4.0010 s/op
+WorkloadResult   9: 1 op, 4001407634.56 ns, 4.0014 s/op
+WorkloadResult  10: 1 op, 4001448842.51 ns, 4.0014 s/op
+WorkloadResult  11: 1 op, 4001538187.19 ns, 4.0015 s/op
+WorkloadResult  12: 1 op, 4001335064.80 ns, 4.0013 s/op
+WorkloadResult  13: 1 op, 4001345640.29 ns, 4.0013 s/op
+WorkloadResult  14: 1 op, 4001674209.91 ns, 4.0017 s/op
+WorkloadResult  15: 1 op, 4001308079.06 ns, 4.0013 s/op
+GC:  0 0 0 0 0
+
+// AfterAll
+
+Mean = 4.0015 s, StdErr = 0.0001 s (0.00%); N = 15, StdDev = 0.0003 s
+Min = 4.0007 s, Q1 = 4.0013 s, Median = 4.0014 s, Q3 = 4.0017 s, Max = 4.0022 s
+IQR = 0.0003 s, LowerFence = 4.0008 s, UpperFence = 4.0022 s
+ConfidenceInterval = [4.0011 s; 4.0018 s] (CI 99.9%), Margin = 0.0004 s (0.01% of Mean)
+Skewness = -0.12, Kurtosis = 3.06, MValue = 2
+
+Successfully reverted power plan (GUID: 381b4222-f694-41f0-9685-ff5bb260df2e FriendlyName: Balanced)
+// ***** BenchmarkRunner: Finish  *****
+
+// * Export *
+  BenchmarkDotNet.Artifacts\results\MultiThreadingBenchMark.Program-report.csv
+  BenchmarkDotNet.Artifacts\results\MultiThreadingBenchMark.Program-report-github.md
+  BenchmarkDotNet.Artifacts\results\MultiThreadingBenchMark.Program-report.html
+
+// * Detailed results *
+Program.ThreadCalling: DefaultJob
+Runtime = .NET Core 2.1.12 (CoreCLR 4.6.27817.01, CoreFX 4.6.27818.01), 64bit RyuJIT; GC = Concurrent Workstation
+Mean = 4.0015 s, StdErr = 0.0001 s (0.00%); N = 15, StdDev = 0.0003 s
+Min = 4.0007 s, Q1 = 4.0013 s, Median = 4.0014 s, Q3 = 4.0017 s, Max = 4.0022 s
+IQR = 0.0003 s, LowerFence = 4.0008 s, UpperFence = 4.0022 s
+ConfidenceInterval = [4.0011 s; 4.0018 s] (CI 99.9%), Margin = 0.0004 s (0.01% of Mean)
+Skewness = -0.12, Kurtosis = 3.06, MValue = 2
+-------------------- Histogram --------------------
+[4.001 s ; 4.002 s) | @@@@@@@@@@@@@@@
+---------------------------------------------------
+
+// * Summary *
+
+BenchmarkDotNet=v0.11.5, OS=Windows 10.0.17134.829 (1803/April2018Update/Redstone4)
+Intel Core i7-6600U CPU 2.60GHz (Skylake), 1 CPU, 4 logical and 2 physical cores
+Frequency=2742189 Hz, Resolution=364.6722 ns, Timer=TSC
+.NET Core SDK=2.1.508
+  [Host]     : .NET Core 2.1.12 (CoreCLR 4.6.27817.01, CoreFX 4.6.27818.01), 64bit RyuJIT
+  DefaultJob : .NET Core 2.1.12 (CoreCLR 4.6.27817.01, CoreFX 4.6.27818.01), 64bit RyuJIT
+
+
+|        Method |    Mean |    Error |   StdDev |
+|-------------- |--------:|---------:|---------:|
+| ThreadCalling | 4.001 s | 0.0004 s | 0.0003 s |
+
+// * Hints *
+Outliers
+  Program.ThreadCalling: Default -> 1 outlier  was  detected (4.00 s)
+
+// * Legends *
+  Mean   : Arithmetic mean of all measurements
+  Error  : Half of 99.9% confidence interval
+  StdDev : Standard deviation of all measurements
+  1 s    : 1 Second (1 sec)
+
+// ***** BenchmarkRunner: End *****
+// ** Remained 0 benchmark(s) to run **
+Run time: 00:01:34 (94.45 sec), executed benchmarks: 1
+
+Global total time: 00:01:58 (118.05 sec), executed benchmarks: 1
+// * Artifacts cleanup *

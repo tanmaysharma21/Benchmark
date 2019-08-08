@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "BenchmarkingLib/1.0.0": {
+        "dependencies": {
+          "PE": "1.0.0"
+        },
+        "runtime": {
+          "BenchmarkingLib.dll": {}
+        }
+      },
+      "PE/1.0.0": {
+        "runtime": {
+          "PE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BenchmarkingLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
