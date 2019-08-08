@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <ImportDirectoryBuildProps>false</ImportDirectoryBuildProps>
+    <ImportDirectoryBuildTargets>false</ImportDirectoryBuildTargets>
+    <AssemblyTitle>5da21af9-0474-4669-b0f9-0deb5f5a269a</AssemblyTitle>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <PlatformTarget>x64</PlatformTarget>
+    <AssemblyName>5da21af9-0474-4669-b0f9-0deb5f5a269a</AssemblyName>
+    <OutputType>Exe</OutputType>
+    <OutputPath>bin\Release</OutputPath>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+    <DebugType>pdbonly</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+    <UseSharedCompilation>false</UseSharedCompilation>
+    <CodeAnalysisRuleSet></CodeAnalysisRuleSet>
+    
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="5da21af9-0474-4669-b0f9-0deb5f5a269a.notcs" Exclude="bin\**;obj\**;**\*.xproj;packages\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="C:\tavisca_training\performance engineering\array vs list\ArrayVsList\ArrayVsList.csproj" />
+  </ItemGroup>
+  
+
+</Project>
